@@ -12,3 +12,8 @@ variable "nickname" {
   description = "nickname"
   default     = "jhs512"
 }
+
+variable "password_1" {
+  description = "password_1"
+  default     = "lldj123414"
+}
